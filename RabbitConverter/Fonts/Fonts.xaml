@@ -1,0 +1,19 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <FontFamily x:Key="CEClassic">pack://application:,,,/RabbitConverter;component/Fonts/#CECLASSIC</FontFamily>
+    <FontFamily x:Key="Metrix1">pack://application:,,,/RabbitConverter;component/Fonts/#Metrix1</FontFamily>
+    <FontFamily x:Key="WinInnwa">pack://application:,,,/RabbitConverter;component/Fonts/#Win Innwa</FontFamily>
+    <FontFamily x:Key="ZapfDingbats">pack://application:,,,/RabbitConverter;component/Fonts/#Zapf Dingbats</FontFamily>
+
+    <FontFamily x:Key="Myanmar1">pack://application:,,,/RabbitConverter;component/Fonts/#M-Myanmar1</FontFamily>
+    <FontFamily x:Key="Myanmar2">pack://application:,,,/RabbitConverter;component/Fonts/#Myanmar2</FontFamily>
+    <FontFamily x:Key="Myanmar3">pack://application:,,,/RabbitConverter;component/Fonts/#Myanmar3</FontFamily>
+    <FontFamily x:Key="Padauk">pack://application:,,,/RabbitConverter;component/Fonts/#Padauk</FontFamily>
+    <FontFamily x:Key="PadaukBook">pack://application:,,,/RabbitConverter;component/Fonts/#Padauk Book</FontFamily>
+    <FontFamily x:Key="MyanmarText">pack://application:,,,/RabbitConverter;component/Fonts/#Myanmar Text</FontFamily>
+
+    <FontFamily x:Key="ZawgyiOne">pack://application:,,,/RabbitConverter;component/Fonts/#Zawgyi-One</FontFamily>
+    <FontFamily x:Key="SmartZawgyiPro">pack://application:,,,/RabbitConverter;component/Fonts/#Smart Zawgyi Pro</FontFamily>
+    
+</ResourceDictionary>

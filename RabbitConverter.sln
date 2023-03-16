@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31729.503
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitConverter", "RabbitConverter\RabbitConverter.csproj", "{7811BBB4-1DA2-48F7-84FC-2613114F32EA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitConverter", "RabbitConverter\RabbitConverter.csproj", "{221469B2-E3AF-4995-B5C1-DBB96927F0AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7811BBB4-1DA2-48F7-84FC-2613114F32EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7811BBB4-1DA2-48F7-84FC-2613114F32EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7811BBB4-1DA2-48F7-84FC-2613114F32EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7811BBB4-1DA2-48F7-84FC-2613114F32EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{221469B2-E3AF-4995-B5C1-DBB96927F0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221469B2-E3AF-4995-B5C1-DBB96927F0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221469B2-E3AF-4995-B5C1-DBB96927F0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221469B2-E3AF-4995-B5C1-DBB96927F0AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D31C827E-5438-45A1-A610-94E9FF0AE1C3}
+		SolutionGuid = {2B634832-A8E6-4A8A-9EAC-0D425A2FC1C2}
 	EndGlobalSection
 EndGlobal
