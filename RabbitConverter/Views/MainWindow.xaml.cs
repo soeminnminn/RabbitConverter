@@ -37,9 +37,11 @@ namespace RabbitConverter.Views
 
         private void AboutCommand_Executed(object sender, ExecutedRoutedEventArgs e)
         {
-            MessageBox.Show(this, "Develop by Soe Minn Minn\nCopyright © S16 Co. Ltd. 2023\nThe Open Source Project",
-                "About - Rabbit Converter",
-                MessageBoxButton.OK, MessageBoxImage.Information);
+            var aboutDialog = new AboutDialog()
+            {
+                Owner = this
+            };
+            aboutDialog.ShowDialog();
         }
     }
 }

@@ -9,7 +9,7 @@ using System.Windows;
 [assembly: AssemblyDescription("Rabbit Converter Windows")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("S16 Co. Ltd.")]
-[assembly: AssemblyProduct("RabbitConverter")]
+[assembly: AssemblyProduct("Rabbit Converter")]
 [assembly: AssemblyCopyright("Copyright © Soe Minn Minn 2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -32,8 +32,8 @@ using System.Windows;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("2.0.0.0")]
-[assembly: AssemblyFileVersion("2.0.0.0")]
+[assembly: AssemblyVersion("2.1.0.0")]
+[assembly: AssemblyFileVersion("2.1.0.0")]
 
 [assembly: ThemeInfo(
     ResourceDictionaryLocation.None, //where theme specific resource dictionaries are located
